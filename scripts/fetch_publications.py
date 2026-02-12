@@ -17,11 +17,11 @@ def fetch_publications():
             bib = pub['bib']
             
             pub_data = {
-                'title': bib.get('title'),
-                'authors': bib.get('author'),
-                'venue': bib.get('venue') or bib.get('journal') or bib.get('conference'),
-                'year': bib.get('pub_year'),
-                'link': pub.get('pub_url')
+                'title': bib.get('title', 'Untitled'),
+                'authors': bib.get('author', 'Unknown'),
+                'venue': bib.get('venue') or bib.get('journal') or bib.get('conference') or '',
+                'year': bib.get('pub_year') or '0',
+                'link': pub.get('pub_url', '')
             }
             publications.append(pub_data)
             
