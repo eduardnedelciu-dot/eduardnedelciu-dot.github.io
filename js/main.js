@@ -46,7 +46,7 @@ function renderPublications(publications, container) {
         pubItem.classList.add('publication-item');
 
         const title = pub.title || 'Untitled';
-        const authors = highlightAuthor(pub.authors || 'Unknown Authors', 'Eduard Nedelciu'); // Replace with your actual name format
+        const authors = highlightAuthor(pub.authors || 'Unknown Authors', 'Nedelciu'); // Replace with your actual name format
         const venue = pub.venue || '';
         const year = pub.year || '';
         const link = pub.link || '#';
@@ -69,12 +69,12 @@ function highlightAuthor(authorsStr, myName) {
     // Simple string replace to wrap myName in a span
     // Case insensitive/flexible matching could be added if needed
     if (!authorsStr) return '';
-    
+
     // Normalize logic can be added here if needed. 
     // Assuming simple string matching for now.
     // We try to match "Eduard Nedelciu" or "E. Nedelciu" or similar if known.
     // For now, exact match on the provided name argument.
-    
+
     const regex = new RegExp(`(${myName})`, 'gi');
     return authorsStr.replace(regex, '<span class="highlight-author">$1</span>');
 }

@@ -1,16 +1,100 @@
 [
     {
-        "title": "Systems Thinking in Sustainability Transformation",
-        "authors": "Eduard Nedelciu, A. N. Other",
-        "venue": "Journal of Cleaner Production",
-        "year": "2023",
-        "link": "https://example.com/paper1"
+        "title": "Beyond growth in food systems: Cultivating seeds of change",
+        "authors": "Claudiu Eduard Nedelciu, Jennifer Hinton, Maartje Oostdijk, Kenza Benabderrazik, Laura G Elsler",
+        "venue": "Journal of Political Ecology",
+        "year": "2025",
+        "link": "#"
     },
     {
-        "title": "Postgrowth Economics: A Review",
-        "authors": "Eduard Nedelciu",
-        "venue": "Ecological Economics",
+        "title": "Food processing and sustainability: Exploring new multidisciplinary perspectives",
+        "authors": "Anthony Fardet, Mike Boland, Hoang Hong-Minh, Amélia Delgado, Rafia Halawany-Darson, Arnaud Germond, Claudiu Eduard Nedelciu, Nikolaos Kopsahelis, Arnaud Diemer, Virginie Baritaux, others",
+        "venue": "Global Food Security",
+        "year": "2025",
+        "link": "#"
+    },
+    {
+        "title": "Modeling fisheries and carbon sequestration ecosystem services under deep uncertainty in the ocean twilight zone",
+        "authors": "Maartje Oostdijk, Laura G Elsler, Julie Van Deelen, Willem L Auping, Jan Kwakkel, Amanda Schadeberg, Berthe MJ Vastenhoud, Claudiu Eduard Nedelciu, Fabio Berzaghi, Raul Prellezo, others",
+        "venue": "Ambio",
+        "year": "2024",
+        "link": "#"
+    },
+    {
+        "title": "Could deep-sea mining sustain sustainability? The international seabed authority and the UN 2030 agenda",
+        "authors": "Aistė Klimašauskaitė, Laura Elisabet Drivdal, Håkon Larsen, Claudiu Eduard Nedelciu",
+        "venue": "Resources Policy",
+        "year": "2024",
+        "link": "#"
+    },
+    {
+        "title": "Waste management and circular economy in the French building and construction sector",
+        "authors": "Arnaud Diemer, Claudiu Eduard Nedelciu, Manuel E Morales, Cécile Batisse, Carmen Cantuarias-Villessuzanne",
+        "venue": "Frontiers in Sustainability",
         "year": "2022",
-        "link": "https://example.com/paper2"
+        "link": "#"
+    },
+    {
+        "title": "Integrating Circular Bioeconomy and Urban Dynamics to Define an Innovative Management of Bio-Waste: The Study Case of Turin",
+        "authors": "Andrea Taffuri, Alessandro Sciullo, Arnaud Diemer, Claudiu Eduard Nedelciu",
+        "venue": "Sustainability",
+        "year": "2021",
+        "link": "#"
+    },
+    {
+        "title": "Sharing economy: Opportunities and challenges for a new economic model",
+        "authors": "Claudiu Eduard Nedelciu, Arnaud Diemer",
+        "venue": "No Poverty",
+        "year": "2021",
+        "link": "#"
+    },
+    {
+        "title": "Social and Solidarity Economy or How Not-for-Profit Organizations Participate to SDGs’ Implementation?",
+        "authors": "Arnaud Diemer, Claudiu Eduard Nedelciu, Jennifer Hinton",
+        "venue": "Partnerships for the Goals",
+        "year": "2021",
+        "link": "#"
+    },
+    {
+        "title": "Opening access to the black box: The need for reporting on the global phosphorus supply chain",
+        "authors": "Claudiu-Eduard Nedelciu, Kristín Vala Ragnarsdóttir, Ingrid Stjernquist, Marie Katharine Schellens",
+        "venue": "Ambio",
+        "year": "2020",
+        "link": "#"
+    },
+    {
+        "title": "Global phosphorus supply chain dynamics: assessing regional impact to 2050",
+        "authors": "Claudiu Eduard Nedelciu, Kristin Vala Ragnarsdottir, Peter Schlyter, Ingrid Stjernquist",
+        "venue": "Global Food Security",
+        "year": "2020",
+        "link": "#"
+    },
+    {
+        "title": "Paradigms, models, scenarios and practices for strong sustainability",
+        "authors": "A Diemer, M Morales, C Nedelciu, M Schellens, M Oostdijk",
+        "venue": "Éditions Oeconomia",
+        "year": "2020",
+        "link": "#"
+    },
+    {
+        "title": "Sharing Economy: Opportunities and Challenges for a New Economic Model",
+        "authors": "Claudiu Eduard Nedelciu, Arnaud Diemer",
+        "venue": "No Poverty",
+        "year": "2020",
+        "link": "#"
+    },
+    {
+        "title": "From waste to resource: A systems dynamics and stakeholder analysis of phosphorus recycling from municipal wastewater in Europe",
+        "authors": "Claudiu-Eduard Nedelciu, Kristín Vala Ragnarsdóttir, Ingrid Stjernquist",
+        "venue": "Ambio",
+        "year": "2019",
+        "link": "#"
+    },
+    {
+        "title": "Challenges for sustainability in critical raw material assessments",
+        "authors": "Arnaud Diemer, Eduard Nedelciu, Marie Schellens, Johanna Gisladottir, others",
+        "venue": "International Journal of Management and Sustainability",
+        "year": "2018",
+        "link": "#"
     }
 ]
